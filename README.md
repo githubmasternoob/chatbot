@@ -1,4 +1,4 @@
-# Angular One on One Chat example
+# Angular One on One Chat example Feature
 
 This example shows how to build an anonymous one on one chat with Angular:
 
